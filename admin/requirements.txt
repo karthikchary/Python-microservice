@@ -3,3 +3,4 @@ djangorestframework
 mysqlclient
 django-mysql
 pika
+django-cors-headers
